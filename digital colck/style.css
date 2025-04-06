@@ -1,0 +1,37 @@
+/* styles.css */
+body {
+    background: linear-gradient(135deg, #4e4f4f, #3b98c9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#clockContainer {
+    text-align: center;
+    font-weight: bolder;
+    background: linear-gradient(135deg, #74ebd5, #acb6e5);
+    color: #fff;
+    padding: 20px;
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
+}
+
+#clock {
+    font-size: 3em;
+    color: #0d0e0e;
+}
+
+#date {
+    font-size: 1.5em;
+    color: #3d4646;
+    margin-top: 10px;
+}
