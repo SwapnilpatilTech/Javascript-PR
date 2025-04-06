@@ -8,5 +8,5 @@
 <img src="https://github.com/SwapnilpatilTech/Javascript-PR/blob/5fdf21e3d2d77f3ad4fdb9694cd6ae7b43a3daf3/Screen%20Recording%202025-04-04%20213715.gif">
 
 
-        <h1>Vidoe Output</h1>
-<img src="">
+        <h1>slider</h1>
+<img src="https://github.com/SwapnilpatilTech/Javascript-PR/blob/72538a0598dd2a8b1d9eb4e6053d6f802f376225/Screen%20Recording%202025-04-06%20210334.gif">
