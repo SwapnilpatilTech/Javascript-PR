@@ -4,8 +4,8 @@
 <img src="https://github.com/SwapnilpatilTech/Javascript-PR/blob/f24152bbfdb26316422e36312cff229d24caa8aa/Screen%20Recording%202025-04-04%20203927.gif">
 
 
-    <h1>Vidoe Output</h1>
-<img src="">
+    <h1>Digital clock</h1>
+<img src="https://github.com/SwapnilpatilTech/Javascript-PR/blob/5fdf21e3d2d77f3ad4fdb9694cd6ae7b43a3daf3/Screen%20Recording%202025-04-04%20213715.gif">
 
 
         <h1>Vidoe Output</h1>
