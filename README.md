@@ -10,3 +10,7 @@
 
         <h1>slider</h1>
 <img src="https://github.com/SwapnilpatilTech/Javascript-PR/blob/72538a0598dd2a8b1d9eb4e6053d6f802f376225/Screen%20Recording%202025-04-06%20210334.gif">
+
+
+        <h1>slider</h1>
+<img src="https://github.com/SwapnilpatilTech/Javascript-PR/blob/72538a0598dd2a8b1d9eb4e6053d6f802f376225/Screen%20Recording%202025-04-06%20210334.gif">
