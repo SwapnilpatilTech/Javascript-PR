@@ -1,5 +1,5 @@
 <h1>🎯 JavaScript Projects Collection</h1>
-<h3>A collection ofCSS, and JavaScript. This repo showcases beginner-friendly yet powerful applications that demonstrate practical use of JS DOM manipulation, event handling, styling, and logic 
+<h3>A collection of interactive and responsive mini-projects built using HTML, CSS, and JavaScript. This repo showcases beginner-friendly yet powerful applications that demonstrate practical use of JS DOM manipulation, event handling, styling, and logic 
 building. Ideal for learning, practice, or portfolio use.</h3>
 <h2>🧠 Projects Included</h2>
 
