@@ -8,7 +8,9 @@ building. Ideal for learning, practice, or portfolio use.</h3>
 
 ⏱ Set any custom time
 
-🔁 
+🔁 Live countdown update
+
+
 ✅ Clean UI for easy usability</h4>
 
 <h3>🧾 Quotes Slider (with JSON Data)</h3>
